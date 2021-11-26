@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E02540F4-4BF7-C097-AE83-5182FD708C81}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AmongU",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
